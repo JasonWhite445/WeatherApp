@@ -22,7 +22,7 @@ public class WeatherApp extends JFrame {
 
     public WeatherApp() {
 
-        //weather app interface
+        //weather app interface!
 
         super("Weather App");
 
