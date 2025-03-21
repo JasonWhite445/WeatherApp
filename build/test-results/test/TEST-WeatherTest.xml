@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WeatherTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-21T21:25:25" hostname="jasons-air.lan" time="2.296">
+  <properties/>
+  <testcase name="LaunchWeatherApplication()" classname="WeatherTest" time="2.296"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Warning: the fonts "Times" and "Times" are not available for the Java logical font "Serif", which may have unexpected appearance or behavior. Re-enable the "Times" font to remove this warning.
+]]></system-err>
+</testsuite>
