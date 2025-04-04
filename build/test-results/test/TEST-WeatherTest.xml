@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="WeatherTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-21T21:25:25" hostname="jasons-air.lan" time="2.296">
+<testsuite name="WeatherTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-04-04T22:42:36" hostname="jasons-air.lan" time="3.511">
   <properties/>
-  <testcase name="LaunchWeatherApplication()" classname="WeatherTest" time="2.296"/>
+  <testcase name="testForecastRetrieval()" classname="WeatherTest" time="1.714"/>
+  <testcase name="testLocationRetrieval()" classname="WeatherTest" time="0.146"/>
+  <testcase name="launchWeatherApplication()" classname="WeatherTest" time="1.649"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[Warning: the fonts "Times" and "Times" are not available for the Java logical font "Serif", which may have unexpected appearance or behavior. Re-enable the "Times" font to remove this warning.
 ]]></system-err>
