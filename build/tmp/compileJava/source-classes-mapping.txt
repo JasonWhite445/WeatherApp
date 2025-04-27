@@ -1,5 +1,6 @@
 weather/build/WeatherApp.java
  weather.build.WeatherApp
+ weather.build.WeatherApp$1
 weather/build/AppLauncher.java
  weather.build.AppLauncher
  weather.build.AppLauncher$1
